@@ -1,2 +1,2 @@
 ## Mandarin Mojo
-[Try it] (mandarin-mojo/index.html)
+[Try Mandarin Mojo](mandarin-mojo/index.html)
